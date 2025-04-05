@@ -24,5 +24,3 @@ We designed a multi-agent system where:
 - State preservation for each agent (resume logic)
 - Modular architecture with easy integration
 
-## 📂 Project Structure
-
