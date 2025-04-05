@@ -2,7 +2,6 @@ import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-
 from agents.traffic_light_agent import TrafficLightAgent
 from agents.vehicle_agent import VehicleAgent
 import random
